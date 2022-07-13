@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehulRampratapNayak
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Full Stack Data Science From Ineuron
+- 🌱 I’m currently pursuing Full Stack Data Science From Ineuron
 - 💞️ I’m looking to collaborate on Data Science Opputunities
 - 📫 How to reach me ...via email:- mehulnayak14@gmail.com
 
