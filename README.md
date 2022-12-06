@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehulRampratapNayak
-- 👀 I’m interested in Data Science
+- 👀 I’m Currently Working as a Data Scientist
 - 🌱 I’m currently pursuing Full Stack Data Science From Ineuron
 - 🌱 I’m currently working as Data Scientist Trainee @ZH Techno Services Pvt Ltd
 - 💞️ I’m looking to collaborate on Data Science Opputunities
